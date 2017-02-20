@@ -1,0 +1,74 @@
+/* background color */
+
+body {
+    background: #ddd;
+}
+
+/* Jumbotron */
+
+.jumbotron {
+    background: url('https://github.com/Giphy/GiphyAPI/raw/master/api_giphy_header.gif');
+    background-size: 100% 358px;
+    background-repeat: no-repeat;
+    color: white;
+}
+/* Margin Top Of Page */
+
+#jumbo {
+    margin-top: 30px;
+}
+
+/* Panel Title Background color */
+.panel-title {
+    background-color: #000;
+}
+
+/* Panel Heading Background color */
+
+.panel-heading {
+    background-color: #000;
+}
+/* Panel Heading Background color */
+
+.panel-primary>.panel-heading {
+    background-color: #000;
+}
+
+/* Button Margin */
+
+.cat-but {
+    margin: 5px;
+    width: 95%;
+}
+
+/* Result Image Style Static */
+
+.result-img {
+    margin: 5px;
+    border-radius: 120px 120px 10px 120px;
+}
+
+/* Result Image Position */
+
+#img-result {
+    float: left;
+    margin-left: 20px;
+}
+
+/* Rating Style */
+
+.rating-top {
+    margin-left: 70px;
+
+    background: #95a5a6;
+    padding: 8px;
+    border-radius: 3px;
+    color: #fff;
+
+}
+
+#addAnimal {
+
+    width: 25%;
+}
+
