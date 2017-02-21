@@ -131,7 +131,7 @@
 
 		        // API Query String + Animal Button ID //
 
-		        var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + catSearch + "&limit=12&api_key=dc6zaTOxFJmzC";
+		        var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + catSearch + "&limit=12&api_key=dc6zaTOxFJmzC";
 
 		        //Ajax Call To API //
 
